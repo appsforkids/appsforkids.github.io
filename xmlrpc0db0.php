@@ -2,13 +2,13 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>https://wordpress.org/</engineLink>
-    <homePageLink>https://www.appsforkids.ml</homePageLink>
+    <homePageLink>https://www.mysteryard.tk</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="https://www.appsforkids.ml/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://www.appsforkids.ml/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://www.appsforkids.ml/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="https://www.appsforkids.ml/xmlrpc.php" />
-      	<api name="WP-API" blogID="1" preferred="false" apiLink="https://www.appsforkids.ml/wp-json/" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="https://www.mysteryard.tk/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://www.mysteryard.tk/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://www.mysteryard.tk/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="https://www.mysteryard.tk/xmlrpc.php" />
+      	<api name="WP-API" blogID="1" preferred="false" apiLink="https://www.mysteryard.tk/wp-json/" />
 	    </apis>
   </service>
 </rsd>
